@@ -3,4 +3,4 @@ User-agent: *
 Disallow: 
 Crawl-delay: 5
 Disallow: /cgi-bin/
-Sitemap: https://fmoviestv-to.pages.dev/sitemap.xml
+Sitemap: https://xalaflix-stream.pages.dev/sitemap.xml
