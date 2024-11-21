@@ -1,6 +1,6 @@
 var button = document.createElement("span");
 
-button.innerText = "View Full Site";
+button.innerText = "Accéder à la page d'accueil";
 
 button.className = "button";
 
